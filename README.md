@@ -1,4 +1,4 @@
-##Excel for Data Analytics — Professional Learning Track
+<h1>Excel for Data Analytics — Professional Learning Track<h1>
 
 This repository documents my structured journey toward mastering Microsoft Excel as a core analytics tool. The focus is on building job-ready competencies that align with real industry workflows, business reporting expectations, and modern data analysis practices.
 
